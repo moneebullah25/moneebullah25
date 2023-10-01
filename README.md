@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Muneeb Ullah, a tech enthusiast
+### Hi there 👋 I'm Muneeb Ullah
 - 🔭 I’m currently working on backend framework NestJS
 - 🌱 I’m currently learning Docker, NestJS, Microservices Architecture, Pnpm workspace and NX
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/moneebullah25)
