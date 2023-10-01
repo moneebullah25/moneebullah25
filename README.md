@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Muneeb Ullah
 
-<p align="left"> <a href="https://twitter.com/MuneebU82984470" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
-
 - 🔭 I’m currently working on backend framework NestJS
 - 🌱 I’m currently learning Docker, NestJS, Microservices Architecture, Pnpm workspace and NX
 - 👨‍💻 All of my projects are available at [github.com/moneebullah25](https://github.com/moneebullah25)
