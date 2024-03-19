@@ -1,6 +1,6 @@
 ### 👋 I'm Muneeb Ullah
 - 🔭 I’m currently working on exciting Generative AI projects.
-- 🌱 I’m currently learning NLP Specialization, FastAPI, Docker, ML Ops.
+- 🌱 I’m currently learning NLP, FastAPI, Docker, ML Ops, OpenAI APIs.
 - 👨‍💻 All of my public projects are available at [GitHub](https://github.com/moneebullah25)
 
 <h3 align="left">Connect with me:</h3>
