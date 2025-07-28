@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **custom blockchain infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 2 years of backend experience and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
 
@@ -11,6 +11,8 @@ Let’s connect and build something meaningful:
 [![GitHub Badge](https://img.shields.io/badge/-moneebullah25-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/moneebullah25)](https://github.com/moneebullah25)
 [![Medium Badge](https://img.shields.io/badge/-@muneebullah25-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@moneebullah25)](https://medium.com/@moneebullah25)
 [![Gmail Badge](https://img.shields.io/badge/-moneebullah25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moneebullah25@gmail.com)](mailto:moneebullah25@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-ThinkFastMoveSmart-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ThinkFastMoveSmart)](https://www.youtube.com/@ThinkFastMoveSmart)
+[![X Badge](https://img.shields.io/badge/-@moneebullah35-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/moneebullah35)](https://x.com/moneebullah35)
 
 ---
 
@@ -59,6 +61,44 @@ Let’s connect and build something meaningful:
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moneebullah25&show_icons=true&count_private=true&include_all_commits=true&theme=github_light&hide_border=false)
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moneebullah25&layout=compact&theme=github_light&langs_count=8&exclude_repo=nextjs_piaic)
+
+<h2>🧠 Expertise In</h2>
+
+<p align="left">
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c" title="C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80"/>
+  </a>
+  <a href="https://en.cppreference.com/w/cpp" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>
+  </a>
+  <a href="https://go.dev/" title="Go">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="80" height="80"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="80" height="80"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
+  </a>
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
+  </a>
+</p>
+
+
 
 ## 🔥 Featured Projects
 
