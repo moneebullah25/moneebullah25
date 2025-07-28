@@ -1,4 +1,4 @@
-## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Welcome to my dev lab! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **custom blockchain infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 2 years of backend experience and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
 
