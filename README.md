@@ -2,7 +2,7 @@
 
 I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **custom blockchain infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 2 years of backend experience and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
 
-🚀 I’m currently working on **production-grade blockchain** in **C++ and Go**, while using **PyTorch** for deep learning models like **Physics-Informed Neural Networks (PINNs)**.  
+🚀 I’m currently working **PyTorch** for deep learning models like **Physics-Informed Neural Networks (PINNs)**.  
 🧠 I’m also diving deep into **nbdev**, **LangChain**, and **containerized microservices**.
 
 Let’s connect and build something meaningful:
@@ -115,7 +115,6 @@ Here are some of the open-source and starter repositories I'm passionate about:
 
 ## 🧠 More Coming Soon
 
-- Custom Blockchain (PoW in C++)
 - PyTorch PINNs for time series modeling
 - LangChain tools + tracing with LangFuse
 - Advanced nbdev pipelines for LLM research
