@@ -103,18 +103,18 @@ Here are some of the open-source and starter repositories I'm passionate about:
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [**moneebullah25/nest-starter**](https://github.com/moneebullah25/nest-starter) | 🛡️ NestJS + Prisma + Docker + SendGrid boilerplate | `TypeScript` |
-| [**moneebullah25/next-starter**](https://github.com/moneebullah25/next-starter) | ⚡ Modern Next.js + Tailwind CSS + Docker template | `TypeScript` |
-| [**moneebullah25/python_nbdev_starter**](https://github.com/moneebullah25/python_nbdev_starter) | 🚀 nbdev + Poetry + GitHub Pages & CI/CD | `Jupyter Notebook` |
-| [**am1tyadav/Neural-Network-from-Scratch-Python**](https://github.com/am1tyadav/Neural-Network-from-Scratch-Python) | 🧠 Build neural nets manually, no ML frameworks | `Python` |
-| [**moneebullah25/c_code_gen**](https://github.com/moneebullah25/c_code_gen) | 🤖 Embedded C code generation with GPT | `Jupyter Notebook` |
-| [**moneebullah25/generic-c-dsa-algorithms**](https://github.com/moneebullah25/generic-c-dsa-algorithms) | 📦 Reusable data structures and algorithms in C | `C` |
+| [**moneebullah25/nest-starter**](https://github.com/moneebullah25/nest-starter) | NestJS + Prisma + Docker + SendGrid boilerplate | `TypeScript` |
+| [**moneebullah25/next-starter**](https://github.com/moneebullah25/next-starter) | Next.js + Tailwind CSS + Docker + Husky boilerplate | `TypeScript` |
+| [**moneebullah25/python_nbdev_starter**](https://github.com/moneebullah25/python_nbdev_starter) | nbdev + Poetry + GitHub Pages & CI/CD boilerplate | `Jupyter Notebook` |
+| [**am1tyadav/Neural-Network-from-Scratch-Python**](https://github.com/am1tyadav/Neural-Network-from-Scratch-Python) | Build neural nets manually, no ML frameworks | `Python` |
+| [**moneebullah25/c_code_gen**](https://github.com/moneebullah25/c_code_gen) | Embedded C code generation with GPT. FastAPI + React | `Jupyter Notebook` |
+| [**moneebullah25/generic-c-dsa-algorithms**](https://github.com/moneebullah25/generic-c-dsa-algorithms) | Reusable data structures and algorithms in C | `C` |
 
 ---
 
 ## Personal Mission
 
-> “Build tools that are open, verifiable, and composable.”
+> “Building tools that are modular, scalable and composable.”
 
 ---
 
