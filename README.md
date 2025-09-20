@@ -1,9 +1,6 @@
 ## Welcome to my dev lab! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **custom blockchain infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 2 years of backend experience and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
-
-🚀 I’m currently working **PyTorch** for deep learning models like **Physics-Informed Neural Networks (PINNs)**.  
-🧠 I’m also diving deep into **nbdev**, **LangChain**, and **containerized microservices**.
+I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **scalable backend infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 3 years of backend experience in industry and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
 
 Let’s connect and build something meaningful:
 
@@ -16,7 +13,7 @@ Let’s connect and build something meaningful:
 
 ---
 
-## ⚡ Technologies & Tools
+## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
@@ -58,15 +55,15 @@ Let’s connect and build something meaningful:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moneebullah25&show_icons=true&count_private=true&include_all_commits=true&theme=github_light&hide_border=false)
 
-## 🧠 Top Languages
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moneebullah25&layout=compact&theme=github_light&langs_count=8&exclude_repo=nextjs_piaic)
 
-<h2>🧠 Expertise In</h2>
+<h2>Expertise In</h2>
 
 <p align="left">
   <a href="https://www.python.org/" title="Python">
@@ -100,7 +97,7 @@ Let’s connect and build something meaningful:
 
 
 
-## 🔥 Featured Projects
+## Featured Projects
 
 Here are some of the open-source and starter repositories I'm passionate about:
 
@@ -112,12 +109,6 @@ Here are some of the open-source and starter repositories I'm passionate about:
 | [**am1tyadav/Neural-Network-from-Scratch-Python**](https://github.com/am1tyadav/Neural-Network-from-Scratch-Python) | 🧠 Build neural nets manually, no ML frameworks | `Python` |
 | [**moneebullah25/c_code_gen**](https://github.com/moneebullah25/c_code_gen) | 🤖 Embedded C code generation with GPT | `Jupyter Notebook` |
 | [**moneebullah25/generic-c-dsa-algorithms**](https://github.com/moneebullah25/generic-c-dsa-algorithms) | 📦 Reusable data structures and algorithms in C | `C` |
-
-## 🧠 More Coming Soon
-
-- PyTorch PINNs for time series modeling
-- LangChain tools + tracing with LangFuse
-- Advanced nbdev pipelines for LLM research
 
 ---
 
