@@ -112,12 +112,12 @@ Here are some of the open-source and starter repositories I'm passionate about:
 
 ---
 
-## 🧭 Personal Mission
+## Personal Mission
 
 > “Build tools that are open, verifiable, and composable.”
 
 ---
 
-## 🛰️ Visitor Badge
+## Visitor Badge
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moneebullah25.moneebullah25)
