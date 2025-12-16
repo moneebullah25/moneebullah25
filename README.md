@@ -1,6 +1,6 @@
 ## Welcome to my dev lab! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **scalable backend infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 3 years of backend experience in industry and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
+I am **Muneeb Ullah**, a driven software engineer and backend developer focused on building **scalable backend infrastructure** and pushing the boundaries of **distributed systems**, **deep learning**, and **data engineering**. With over 5 years of backend experience in industry and a strong command of system-level programming, I aim to deliver scalable, production-grade solutions by following **industry best practices**.
 
 Let’s connect and build something meaningful:
 
